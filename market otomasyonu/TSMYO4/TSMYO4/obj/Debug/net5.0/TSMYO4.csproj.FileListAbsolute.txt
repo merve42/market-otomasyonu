@@ -1,0 +1,16 @@
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.exe
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.deps.json
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.runtimeconfig.json
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.runtimeconfig.dev.json
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.dll
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\ref\TSMYO4.dll
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\bin\Debug\net5.0\TSMYO4.pdb
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.csproj.AssemblyReference.cache
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.AssemblyInfoInputs.cache
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.AssemblyInfo.cs
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.csproj.CoreCompileInputs.cache
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.dll
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\ref\TSMYO4.dll
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.pdb
+C:\Users\Lab.Pc\source\repos\TSMYO4\TSMYO4\obj\Debug\net5.0\TSMYO4.genruntimeconfig.cache

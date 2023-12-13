@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\bin\Debug\netcoreapp7.0\TSMYO4.exe
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\bin\Debug\netcoreapp7.0\TSMYO4.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\bin\Debug\netcoreapp7.0\TSMYO4.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\bin\Debug\netcoreapp7.0\TSMYO4.dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\bin\Debug\netcoreapp7.0\TSMYO4.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\refint\TSMYO4.dll
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\TSMYO4.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\Yeni klasör (2)\TSMYO4\TSMYO4\obj\Debug\netcoreapp7.0\ref\TSMYO4.dll
